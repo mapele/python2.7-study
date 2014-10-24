@@ -17,4 +17,4 @@ flavor = easygui.enterbox("What is you favorite icecream flavor?", default='auto
 easygui.msgbox("You picked " + flavor)
 
 #整数框
-easygui.
+easygui.msgbox
